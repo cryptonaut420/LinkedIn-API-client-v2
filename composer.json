@@ -1,5 +1,5 @@
 {
-    "name": "scottybo/linkedin-api-client-v2",
+    "name": "cryptonaut420/linkedin-api-client-v2",
     "type": "library",
     "description": "LinkedIn API v2 client. Handles OAuth, CSRF protection. Easy to implement and extend. This is a standalone library for any composer project.",
     "keywords": ["LinkedIn", "OAuth", "API", "Client", "SDK", "LinkedIn v2"],
